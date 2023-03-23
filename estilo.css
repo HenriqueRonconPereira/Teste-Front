@@ -1,0 +1,49 @@
+body{
+    color: #FAFAFA;
+}
+.cabecalho{
+    text-decoration: none; 
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 65px;
+    height: 14vh;
+    max-height: 120px;
+    margin-left: 200px;
+
+    
+}
+header{
+    border-bottom: solid 1px #272525;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    color: #272525;
+    
+}
+
+.entrar{
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #C2C1CF;
+    margin-left: 350px;
+    border: none;
+    padding: 5px 25px 5px 25px;
+}
+
+.titulo{
+    color: #272525;
+}
+
+.explicacao_challenge{
+    color: #272525;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.content{
+    margin-left: 100px;
+}
